@@ -16,8 +16,8 @@ The **Task Management API** is a **secure, token-based authentication system** b
 ## **🛠️ Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/task-manager-api.git
-cd task-manager-api
+git clone https://github.com/ayu5hsingh/Task_Management_API.git
+cd Task_Management_API
 ```
 
 ### **2️⃣ Install Dependencies**
